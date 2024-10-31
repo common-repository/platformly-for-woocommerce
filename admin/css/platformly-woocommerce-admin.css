@@ -1,0 +1,36 @@
+.platformly-wc-contacts-settings,
+.platformly-wc-events-settings,
+.platformly-wc-sync-data {
+    width: 30%;
+}
+#platformly_wc_tab_content .options_group .form-field{
+    width: 50%;
+}
+#platformly-woocommerce-gdpr-checkbox-label{
+    margin-top: 5px;
+    width: 100%;
+}
+#platformlyPaymentProcessorBlock, #platformlyWcApiKey{
+    width: 30%;
+}
+#platformlyCheckApiKey:hover{
+    cursor: pointer;
+}
+#platformlyWcPlatformVisitAccountBtn{
+    margin-top: 10px;
+}
+.platform-wc-text-bold{
+    font-weight: bold;
+}
+.platform-wc-api-key-error{
+    color: red;
+}
+
+#abandoned_cart_settings {
+    display: none;
+}
+
+.platformly-wc-events-settings label {
+    font-weight: bold;
+    line-height: 22px;
+}
